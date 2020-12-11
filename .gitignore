@@ -1,0 +1,7 @@
+/.DS_Store
+/notes.md
+/dist
+/kattis.egg-info
+/build
+.env
+__pycache__

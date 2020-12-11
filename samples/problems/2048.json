@@ -1,0 +1,18 @@
+{
+    "id": "2048",
+    "url": "https://open.kattis.com/problems/2048",
+    "stats_url": "https://open.kattis.com/problems/2048/statistics",
+    "info": {
+        "time_limit": "1",
+        "memory_limit": "1024",
+        "difficulty": "2.4"
+    },
+    "stats": {
+        "submissions": "9533",
+        "accepted_submissions": "4391",
+        "submission_ratio": "46",
+        "authors": "4217",
+        "accepted_authors": "3617",
+        "author_ratio": "86"
+    }
+}
