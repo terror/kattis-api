@@ -1,18 +1,17 @@
 {
-    "id": "abc",
     "url": "https://open.kattis.com/problems/abc",
     "stats_url": "https://open.kattis.com/problems/abc/statistics",
     "info": {
         "time_limit": "1",
         "memory_limit": "1024",
-        "difficulty": "1.9"
+        "difficulty": "1.8"
     },
     "stats": {
-        "submissions": "16496",
-        "accepted_submissions": "7525",
+        "submissions": "17763",
+        "accepted_submissions": "8108",
         "submission_ratio": "46",
-        "authors": "7094",
-        "accepted_authors": "6434",
+        "authors": "7644",
+        "accepted_authors": "6943",
         "author_ratio": "91"
     }
 }

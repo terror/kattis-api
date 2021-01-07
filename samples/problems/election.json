@@ -1,18 +1,17 @@
 {
-    "id": "election",
     "url": "https://open.kattis.com/problems/election",
     "stats_url": "https://open.kattis.com/problems/election/statistics",
     "info": {
         "time_limit": "1",
         "memory_limit": "1024",
-        "difficulty": "6.4"
+        "difficulty": "6.2"
     },
     "stats": {
-        "submissions": "1881",
-        "accepted_submissions": "353",
+        "submissions": "1979",
+        "accepted_submissions": "374",
         "submission_ratio": "19",
-        "authors": "423",
-        "accepted_authors": "242",
-        "author_ratio": "57"
+        "authors": "447",
+        "accepted_authors": "262",
+        "author_ratio": "59"
     }
 }

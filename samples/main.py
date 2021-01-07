@@ -22,6 +22,14 @@ def main():
                     pid, error)
             )
 
+    # First page of problems
+    print('[~] Fetching first page of problems')
+    try:
+        with open('problems/page1.json', 'w+') as pfile:
+            pfile.write(json.dumps(kattis.problems(1), indent=4))
+    except Exception as error:
+        print('Error fetching first page of problems: {}'.format(error))
+
     # User information
     print('[~] Fetching user information...')
     try:

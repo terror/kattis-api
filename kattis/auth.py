@@ -1,7 +1,6 @@
 import requests
 from .user import KattisUser
 
-
 URL = "https://open.kattis.com/login"
 
 
@@ -14,11 +13,7 @@ def auth(username: str, password: str) -> KattisUser:
     Authenticate kattis user with username and password
 
     """
-    login = {
-        "user": username,
-        "password": password,
-        "script": "true"
-    }
+    login = {"user": username, "password": password, "script": "true"}
 
     res = requests.post(URL, data=login)
     if res.status_code == 200:

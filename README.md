@@ -3,7 +3,7 @@
 [![build](https://travis-ci.com/terror/kattis-api.svg?token=ecmzsnHcAnyWvGJ3zTwV&branch=master)](https://travis-ci.com/terror/kattis-api)
 [![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A python wrapper for the [Kattis](https://open.kattis.com/) API.
+A python wrapper for the non-existent [Kattis](https://open.kattis.com/) API.
 
 ## Usage
 
@@ -36,25 +36,26 @@ user = kattis.auth('username', 'password')
 
 Methods that are callable on a KattisUser object.
 
-`user.problems(pages) -> dict`: Fetches solved user problems  
-`user.submissions(pages) -> dict`: Fetches user submissions  
-`user.stats() -> dict`: Fetches relevant user statistics  
-`user.data() -> dict`: Combines problems, submissions and statistics  
+`user.problems(pages) -> dict`: Fetches solved user problems
+
+`user.stats() -> dict`: Fetches relevant user statistics
+
+`user.data() -> dict`: Combines problems and statistics
 
 ```python
 user = kattis.auth('username', 'password')
 
 problems = user.problems(1)
-sub = user.submissions(1)
 stats = user.stats()
-all_info = user.data()
+info = user.data()
 ```
 
 ### Problems
 
 You can fetch kattis problems by ID or by full pages
 
-`kattis.problem(id) -> dict`: Fetches problem information for a single problem  
+`kattis.problem(id) -> dict`: Fetches problem information for a single problem
+
 `kattis.problems(pages) -> list[dict]` Fetches problem information across specified pages
 
 

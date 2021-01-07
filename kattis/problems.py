@@ -1,16 +1,16 @@
 import requests
 import re
+import json
 from .utils import Utils
-
 
 URL = "https://open.kattis.com/problems/"
 
 
-def problems(pages=28) -> dict:
+def problems(pages=1) -> dict:
     """
     Fetches all Kattis problems
 
-    :param pages: number of problem pages, defaults to 28
+    :param pages: number of problem pages, defaults to 1
     :rtype: list of problem objects
     """
     ret = []
@@ -29,7 +29,6 @@ def problem(problem_id: str) -> dict:
     :rtype: json object
     """
     obj = {
-        "id": problem_id,
         "url": URL + problem_id,
         "stats_url": URL + problem_id + "/statistics",
     }
@@ -49,11 +48,7 @@ def add_problem_information(problem_page, problem: dict) -> None:
     to problem object
 
     """
-    fields = [
-        "time_limit",
-        "memory_limit",
-        "difficulty"
-    ]
+    fields = ["time_limit", "memory_limit", "difficulty"]
 
     info = problem_page.find("div", {"class": "sidebar-info"}).findAll(
         "p", recursive=True
@@ -63,8 +58,7 @@ def add_problem_information(problem_page, problem: dict) -> None:
         s = re.compile(r"[^\d.]+")
         info[i] = s.sub("", str(info[i]))
 
-    problem["info"] = {fields[i]: info[i]
-                       for i in range(min(len(info), len(fields)))}
+    problem["info"] = {fields[i]: info[i] for i in range(min(len(info), len(fields)))}
 
 
 def add_problem_statistics(stats_page, problem: dict) -> None:
@@ -104,6 +98,5 @@ def problem_list(page):
     """
     problems = page.findAll("a", recursive=True)[18:-4]
     return [
-        str(problems[i]).split("/")[2].split('"')[0]
-        for i in range(0, len(problems), 3)
+        str(problems[i]).split("/")[2].split('"')[0] for i in range(0, len(problems), 3)
     ]
