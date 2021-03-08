@@ -76,11 +76,11 @@
             "difficulty": "2.0"
         },
         "stats": {
-            "submissions": "13109",
-            "accepted_submissions": "6009",
+            "submissions": "13110",
+            "accepted_submissions": "6010",
             "submission_ratio": "46",
-            "authors": "5603",
-            "accepted_authors": "5028",
+            "authors": "5604",
+            "accepted_authors": "5029",
             "author_ratio": "90"
         }
     },
@@ -141,7 +141,7 @@
         "info": {
             "time_limit": "1",
             "memory_limit": "1024",
-            "difficulty": "3.7"
+            "difficulty": "3.6"
         },
         "stats": {
             "submissions": "6334",
@@ -161,11 +161,11 @@
             "difficulty": "1.5"
         },
         "stats": {
-            "submissions": "33564",
-            "accepted_submissions": "15649",
+            "submissions": "33566",
+            "accepted_submissions": "15650",
             "submission_ratio": "47",
-            "authors": "14029",
-            "accepted_authors": "13099",
+            "authors": "14030",
+            "accepted_authors": "13100",
             "author_ratio": "93"
         }
     },
@@ -175,7 +175,7 @@
         "info": {
             "time_limit": "2",
             "memory_limit": "1024",
-            "difficulty": "5.5"
+            "difficulty": "5.6"
         },
         "stats": {
             "submissions": "2404",
@@ -229,11 +229,11 @@
             "difficulty": "1.9"
         },
         "stats": {
-            "submissions": "11876",
-            "accepted_submissions": "4932",
+            "submissions": "11878",
+            "accepted_submissions": "4933",
             "submission_ratio": "42",
-            "authors": "4742",
-            "accepted_authors": "4255",
+            "authors": "4744",
+            "accepted_authors": "4256",
             "author_ratio": "90"
         }
     },
@@ -246,7 +246,7 @@
             "difficulty": "8.4"
         },
         "stats": {
-            "submissions": "9128",
+            "submissions": "9129",
             "accepted_submissions": "900",
             "submission_ratio": "10",
             "authors": "1304",
@@ -331,10 +331,10 @@
             "difficulty": "5.7"
         },
         "stats": {
-            "submissions": "1676",
+            "submissions": "1677",
             "accepted_submissions": "483",
             "submission_ratio": "29",
-            "authors": "461",
+            "authors": "462",
             "accepted_authors": "349",
             "author_ratio": "76"
         }
@@ -379,14 +379,14 @@
         "info": {
             "time_limit": "4",
             "memory_limit": "1024",
-            "difficulty": "4.3"
+            "difficulty": "4.2"
         },
         "stats": {
-            "submissions": "11984",
-            "accepted_submissions": "3137",
+            "submissions": "11989",
+            "accepted_submissions": "3140",
             "submission_ratio": "26",
-            "authors": "2702",
-            "accepted_authors": "2098",
+            "authors": "2703",
+            "accepted_authors": "2101",
             "author_ratio": "78"
         }
     },
@@ -399,11 +399,11 @@
             "difficulty": "1.4"
         },
         "stats": {
-            "submissions": "8035",
-            "accepted_submissions": "5021",
+            "submissions": "8037",
+            "accepted_submissions": "5022",
             "submission_ratio": "62",
-            "authors": "4489",
-            "accepted_authors": "4243",
+            "authors": "4490",
+            "accepted_authors": "4244",
             "author_ratio": "95"
         }
     },
@@ -467,11 +467,11 @@
             "difficulty": "2.3"
         },
         "stats": {
-            "submissions": "38196",
-            "accepted_submissions": "14130",
+            "submissions": "38199",
+            "accepted_submissions": "14132",
             "submission_ratio": "37",
-            "authors": "12901",
-            "accepted_authors": "11188",
+            "authors": "12902",
+            "accepted_authors": "11189",
             "author_ratio": "87"
         }
     },
@@ -668,14 +668,14 @@
         "info": {
             "time_limit": "1",
             "memory_limit": "1024",
-            "difficulty": "3.6"
+            "difficulty": "3.4"
         },
         "stats": {
-            "submissions": "6387",
-            "accepted_submissions": "1867",
+            "submissions": "6388",
+            "accepted_submissions": "1868",
             "submission_ratio": "29",
-            "authors": "1925",
-            "accepted_authors": "1484",
+            "authors": "1926",
+            "accepted_authors": "1485",
             "author_ratio": "77"
         }
     },
@@ -787,7 +787,7 @@
         "info": {
             "time_limit": "6",
             "memory_limit": "1024",
-            "difficulty": "8.6"
+            "difficulty": "8.7"
         },
         "stats": {
             "submissions": "834",
@@ -1059,7 +1059,7 @@
         "info": {
             "time_limit": "1",
             "memory_limit": "1024",
-            "difficulty": "4.2"
+            "difficulty": "3.3"
         },
         "stats": {
             "submissions": "69",
@@ -1249,9 +1249,9 @@
             "difficulty": "5.3"
         },
         "stats": {
-            "submissions": "518",
-            "accepted_submissions": "137",
-            "submission_ratio": "26",
+            "submissions": "519",
+            "accepted_submissions": "138",
+            "submission_ratio": "27",
             "authors": "113",
             "accepted_authors": "84",
             "author_ratio": "74"
@@ -1266,8 +1266,8 @@
             "difficulty": "2.5"
         },
         "stats": {
-            "submissions": "4844",
-            "accepted_submissions": "2174",
+            "submissions": "4846",
+            "accepted_submissions": "2176",
             "submission_ratio": "45",
             "authors": "1910",
             "accepted_authors": "1686",
@@ -1401,11 +1401,11 @@
             "difficulty": "2.8"
         },
         "stats": {
-            "submissions": "4456",
-            "accepted_submissions": "1770",
+            "submissions": "4463",
+            "accepted_submissions": "1771",
             "submission_ratio": "40",
-            "authors": "1718",
-            "accepted_authors": "1446",
+            "authors": "1719",
+            "accepted_authors": "1447",
             "author_ratio": "84"
         }
     },
@@ -1517,7 +1517,7 @@
         "info": {
             "time_limit": "2",
             "memory_limit": "1024",
-            "difficulty": "5.6"
+            "difficulty": "5.5"
         },
         "stats": {
             "submissions": "78",
@@ -1639,7 +1639,7 @@
             "difficulty": "5.7"
         },
         "stats": {
-            "submissions": "1065",
+            "submissions": "1066",
             "accepted_submissions": "292",
             "submission_ratio": "27",
             "authors": "336",
@@ -1690,11 +1690,11 @@
             "difficulty": "2.5"
         },
         "stats": {
-            "submissions": "4540",
-            "accepted_submissions": "2060",
+            "submissions": "4548",
+            "accepted_submissions": "2062",
             "submission_ratio": "45",
-            "authors": "1686",
-            "accepted_authors": "1478",
+            "authors": "1688",
+            "accepted_authors": "1480",
             "author_ratio": "88"
         }
     }
