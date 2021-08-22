@@ -1,7 +1,6 @@
 ## Kattis API
 
 [![build](https://travis-ci.com/terror/kattis-api.svg?token=ecmzsnHcAnyWvGJ3zTwV&branch=master)](https://travis-ci.com/terror/kattis-api)
-[![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A python wrapper for the non-existent [Kattis](https://open.kattis.com/) API.
 

@@ -1,0 +1,1700 @@
+[
+  {
+    "url": "https://open.kattis.com/problems/sequences",
+    "stats_url": "https://open.kattis.com/problems/sequences/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "6.0"
+    },
+    "stats": {
+      "submissions": "11625",
+      "accepted_submissions": "1832",
+      "submission_ratio": "16",
+      "authors": "2384",
+      "accepted_authors": "1265",
+      "author_ratio": "53"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/10kindsofpeople",
+    "stats_url": "https://open.kattis.com/problems/10kindsofpeople/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.7"
+    },
+    "stats": {
+      "submissions": "26748",
+      "accepted_submissions": "5472",
+      "submission_ratio": "20",
+      "authors": "4620",
+      "accepted_authors": "3321",
+      "author_ratio": "72"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/2048",
+    "stats_url": "https://open.kattis.com/problems/2048/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.6"
+    },
+    "stats": {
+      "submissions": "10642",
+      "accepted_submissions": "4889",
+      "submission_ratio": "46",
+      "authors": "4739",
+      "accepted_authors": "4045",
+      "author_ratio": "85"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/246greaaat",
+    "stats_url": "https://open.kattis.com/problems/246greaaat/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "8.9"
+    },
+    "stats": {
+      "submissions": "821",
+      "accepted_submissions": "126",
+      "submission_ratio": "15",
+      "authors": "99",
+      "accepted_authors": "42",
+      "author_ratio": "42"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/3dprinter",
+    "stats_url": "https://open.kattis.com/problems/3dprinter/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.2"
+    },
+    "stats": {
+      "submissions": "14290",
+      "accepted_submissions": "6563",
+      "submission_ratio": "46",
+      "authors": "6155",
+      "accepted_authors": "5504",
+      "author_ratio": "89"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/threedprinter",
+    "stats_url": "https://open.kattis.com/problems/threedprinter/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "8.8"
+    },
+    "stats": {
+      "submissions": "994",
+      "accepted_submissions": "163",
+      "submission_ratio": "16",
+      "authors": "412",
+      "accepted_authors": "125",
+      "author_ratio": "30"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/3sideddice",
+    "stats_url": "https://open.kattis.com/problems/3sideddice/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "8.7"
+    },
+    "stats": {
+      "submissions": "2923",
+      "accepted_submissions": "237",
+      "submission_ratio": "8",
+      "authors": "477",
+      "accepted_authors": "165",
+      "author_ratio": "35"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/4thought",
+    "stats_url": "https://open.kattis.com/problems/4thought/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.7"
+    },
+    "stats": {
+      "submissions": "12300",
+      "accepted_submissions": "4262",
+      "submission_ratio": "35",
+      "authors": "4090",
+      "accepted_authors": "3452",
+      "author_ratio": "84"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/a1paper",
+    "stats_url": "https://open.kattis.com/problems/a1paper/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.7"
+    },
+    "stats": {
+      "submissions": "6728",
+      "accepted_submissions": "2028",
+      "submission_ratio": "30",
+      "authors": "2014",
+      "accepted_authors": "1601",
+      "author_ratio": "79"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aa",
+    "stats_url": "https://open.kattis.com/problems/aa/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.96.4"
+    },
+    "stats": {
+      "submissions": "65",
+      "accepted_submissions": "53",
+      "submission_ratio": "82",
+      "authors": "21",
+      "accepted_authors": "20",
+      "author_ratio": "95"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aaah",
+    "stats_url": "https://open.kattis.com/problems/aaah/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.5"
+    },
+    "stats": {
+      "submissions": "35838",
+      "accepted_submissions": "16728",
+      "submission_ratio": "47",
+      "authors": "15067",
+      "accepted_authors": "14063",
+      "author_ratio": "93"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/abandonedanimal",
+    "stats_url": "https://open.kattis.com/problems/abandonedanimal/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.3"
+    },
+    "stats": {
+      "submissions": "2584",
+      "accepted_submissions": "577",
+      "submission_ratio": "22",
+      "authors": "664",
+      "accepted_authors": "488",
+      "author_ratio": "73"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/abc",
+    "stats_url": "https://open.kattis.com/problems/abc/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.0"
+    },
+    "stats": {
+      "submissions": "19817",
+      "accepted_submissions": "8970",
+      "submission_ratio": "45",
+      "authors": "8521",
+      "accepted_authors": "7722",
+      "author_ratio": "91"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/abinitio",
+    "stats_url": "https://open.kattis.com/problems/abinitio/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "7.5"
+    },
+    "stats": {
+      "submissions": "1922",
+      "accepted_submissions": "326",
+      "submission_ratio": "17",
+      "authors": "282",
+      "accepted_authors": "176",
+      "author_ratio": "62"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aboveaverage",
+    "stats_url": "https://open.kattis.com/problems/aboveaverage/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.9"
+    },
+    "stats": {
+      "submissions": "12993",
+      "accepted_submissions": "5416",
+      "submission_ratio": "42",
+      "authors": "5184",
+      "accepted_authors": "4666",
+      "author_ratio": "90"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aplusb",
+    "stats_url": "https://open.kattis.com/problems/aplusb/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "8.0"
+    },
+    "stats": {
+      "submissions": "9672",
+      "accepted_submissions": "979",
+      "submission_ratio": "10",
+      "authors": "1383",
+      "accepted_authors": "464",
+      "author_ratio": "34"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/gerrymander",
+    "stats_url": "https://open.kattis.com/problems/gerrymander/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "9.0"
+    },
+    "stats": {
+      "submissions": "542",
+      "accepted_submissions": "108",
+      "submission_ratio": "20",
+      "authors": "102",
+      "accepted_authors": "49",
+      "author_ratio": "48"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/abstractart",
+    "stats_url": "https://open.kattis.com/problems/abstractart/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.8"
+    },
+    "stats": {
+      "submissions": "464",
+      "accepted_submissions": "154",
+      "submission_ratio": "33",
+      "authors": "128",
+      "accepted_authors": "95",
+      "author_ratio": "74"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/abstractpainting",
+    "stats_url": "https://open.kattis.com/problems/abstractpainting/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.9"
+    },
+    "stats": {
+      "submissions": "1093",
+      "accepted_submissions": "441",
+      "submission_ratio": "40",
+      "authors": "393",
+      "accepted_authors": "320",
+      "author_ratio": "81"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/absurdistan2",
+    "stats_url": "https://open.kattis.com/problems/absurdistan2/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "6.9"
+    },
+    "stats": {
+      "submissions": "704",
+      "accepted_submissions": "237",
+      "submission_ratio": "34",
+      "authors": "237",
+      "accepted_authors": "157",
+      "author_ratio": "66"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/absurdistan3",
+    "stats_url": "https://open.kattis.com/problems/absurdistan3/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "5.6"
+    },
+    "stats": {
+      "submissions": "1801",
+      "accepted_submissions": "513",
+      "submission_ratio": "28",
+      "authors": "483",
+      "accepted_authors": "368",
+      "author_ratio": "76"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/accesspoints",
+    "stats_url": "https://open.kattis.com/problems/accesspoints/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.7"
+    },
+    "stats": {
+      "submissions": "501",
+      "accepted_submissions": "174",
+      "submission_ratio": "35",
+      "authors": "164",
+      "accepted_authors": "128",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/bokforing",
+    "stats_url": "https://open.kattis.com/problems/bokforing/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "4.6"
+    },
+    "stats": {
+      "submissions": "1702",
+      "accepted_submissions": "503",
+      "submission_ratio": "30",
+      "authors": "455",
+      "accepted_authors": "322",
+      "author_ratio": "71"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/classy",
+    "stats_url": "https://open.kattis.com/problems/classy/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "4.2"
+    },
+    "stats": {
+      "submissions": "12828",
+      "accepted_submissions": "3341",
+      "submission_ratio": "26",
+      "authors": "2892",
+      "accepted_authors": "2257",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/acm",
+    "stats_url": "https://open.kattis.com/problems/acm/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.5"
+    },
+    "stats": {
+      "submissions": "8438",
+      "accepted_submissions": "5292",
+      "submission_ratio": "63",
+      "authors": "4722",
+      "accepted_authors": "4469",
+      "author_ratio": "95"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/addemup",
+    "stats_url": "https://open.kattis.com/problems/addemup/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.9"
+    },
+    "stats": {
+      "submissions": "2600",
+      "accepted_submissions": "617",
+      "submission_ratio": "24",
+      "authors": "643",
+      "accepted_authors": "460",
+      "author_ratio": "72"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/addingwords",
+    "stats_url": "https://open.kattis.com/problems/addingwords/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.8"
+    },
+    "stats": {
+      "submissions": "14349",
+      "accepted_submissions": "3554",
+      "submission_ratio": "25",
+      "authors": "3326",
+      "accepted_authors": "2607",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/addtwonumbers",
+    "stats_url": "https://open.kattis.com/problems/addtwonumbers/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.3"
+    },
+    "stats": {
+      "submissions": "2665",
+      "accepted_submissions": "1839",
+      "submission_ratio": "69",
+      "authors": "1766",
+      "accepted_authors": "1702",
+      "author_ratio": "96"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/listgame2",
+    "stats_url": "https://open.kattis.com/problems/listgame2/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "9.3"
+    },
+    "stats": {
+      "submissions": "7507",
+      "accepted_submissions": "524",
+      "submission_ratio": "7",
+      "authors": "987",
+      "accepted_authors": "192",
+      "author_ratio": "19"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/different",
+    "stats_url": "https://open.kattis.com/problems/different/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.4"
+    },
+    "stats": {
+      "submissions": "40364",
+      "accepted_submissions": "14979",
+      "submission_ratio": "37",
+      "authors": "13674",
+      "accepted_authors": "11859",
+      "author_ratio": "87"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/adjoin",
+    "stats_url": "https://open.kattis.com/problems/adjoin/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.6"
+    },
+    "stats": {
+      "submissions": "2676",
+      "accepted_submissions": "693",
+      "submission_ratio": "26",
+      "authors": "594",
+      "accepted_authors": "474",
+      "author_ratio": "80"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/administrativeproblems",
+    "stats_url": "https://open.kattis.com/problems/administrativeproblems/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "6.2"
+    },
+    "stats": {
+      "submissions": "1765",
+      "accepted_submissions": "352",
+      "submission_ratio": "20",
+      "authors": "370",
+      "accepted_authors": "253",
+      "author_ratio": "68"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/ads",
+    "stats_url": "https://open.kattis.com/problems/ads/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.3"
+    },
+    "stats": {
+      "submissions": "831",
+      "accepted_submissions": "81",
+      "submission_ratio": "10",
+      "authors": "156",
+      "accepted_authors": "56",
+      "author_ratio": "36"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/causal",
+    "stats_url": "https://open.kattis.com/problems/causal/statistics",
+    "info": {
+      "time_limit": "3",
+      "memory_limit": "1024",
+      "difficulty": "7.4"
+    },
+    "stats": {
+      "submissions": "129",
+      "accepted_submissions": "41",
+      "submission_ratio": "32",
+      "authors": "42",
+      "accepted_authors": "32",
+      "author_ratio": "76"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/adventurebegins",
+    "stats_url": "https://open.kattis.com/problems/adventurebegins/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.5"
+    },
+    "stats": {
+      "submissions": "325",
+      "accepted_submissions": "101",
+      "submission_ratio": "31",
+      "authors": "109",
+      "accepted_authors": "82",
+      "author_ratio": "75"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/adventuremoving4",
+    "stats_url": "https://open.kattis.com/problems/adventuremoving4/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.8"
+    },
+    "stats": {
+      "submissions": "1783",
+      "accepted_submissions": "400",
+      "submission_ratio": "22",
+      "authors": "346",
+      "accepted_authors": "284",
+      "author_ratio": "82"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/favourable",
+    "stats_url": "https://open.kattis.com/problems/favourable/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "4.3"
+    },
+    "stats": {
+      "submissions": "1933",
+      "accepted_submissions": "532",
+      "submission_ratio": "28",
+      "authors": "494",
+      "accepted_authors": "387",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/cats",
+    "stats_url": "https://open.kattis.com/problems/cats/statistics",
+    "info": {
+      "time_limit": "6",
+      "memory_limit": "1024",
+      "difficulty": "3.4"
+    },
+    "stats": {
+      "submissions": "3409",
+      "accepted_submissions": "1288",
+      "submission_ratio": "38",
+      "authors": "934",
+      "accepted_authors": "806",
+      "author_ratio": "86"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/fleaonachessboard",
+    "stats_url": "https://open.kattis.com/problems/fleaonachessboard/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.3"
+    },
+    "stats": {
+      "submissions": "999",
+      "accepted_submissions": "210",
+      "submission_ratio": "21",
+      "authors": "209",
+      "accepted_authors": "148",
+      "author_ratio": "71"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/ahorseshoein",
+    "stats_url": "https://open.kattis.com/problems/ahorseshoein/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "9.2"
+    },
+    "stats": {
+      "submissions": "129",
+      "accepted_submissions": "13",
+      "submission_ratio": "10",
+      "authors": "21",
+      "accepted_authors": "9",
+      "author_ratio": "43"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aijeopardy",
+    "stats_url": "https://open.kattis.com/problems/aijeopardy/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.7"
+    },
+    "stats": {
+      "submissions": "594",
+      "accepted_submissions": "80",
+      "submission_ratio": "13",
+      "authors": "78",
+      "accepted_authors": "52",
+      "author_ratio": "67"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airconditioned",
+    "stats_url": "https://open.kattis.com/problems/airconditioned/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.4"
+    },
+    "stats": {
+      "submissions": "6998",
+      "accepted_submissions": "2064",
+      "submission_ratio": "29",
+      "authors": "2115",
+      "accepted_authors": "1640",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airlinehub",
+    "stats_url": "https://open.kattis.com/problems/airlinehub/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "6.6"
+    },
+    "stats": {
+      "submissions": "2356",
+      "accepted_submissions": "524",
+      "submission_ratio": "22",
+      "authors": "470",
+      "accepted_authors": "281",
+      "author_ratio": "60"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airportcoffee",
+    "stats_url": "https://open.kattis.com/problems/airportcoffee/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "6.8"
+    },
+    "stats": {
+      "submissions": "1299",
+      "accepted_submissions": "266",
+      "submission_ratio": "20",
+      "authors": "252",
+      "accepted_authors": "177",
+      "author_ratio": "70"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airport",
+    "stats_url": "https://open.kattis.com/problems/airport/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "7.6"
+    },
+    "stats": {
+      "submissions": "3728",
+      "accepted_submissions": "472",
+      "submission_ratio": "13",
+      "authors": "407",
+      "accepted_authors": "219",
+      "author_ratio": "54"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airportlogistics",
+    "stats_url": "https://open.kattis.com/problems/airportlogistics/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "6.9"
+    },
+    "stats": {
+      "submissions": "70",
+      "accepted_submissions": "18",
+      "submission_ratio": "26",
+      "authors": "24",
+      "accepted_authors": "17",
+      "author_ratio": "71"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airports",
+    "stats_url": "https://open.kattis.com/problems/airports/statistics",
+    "info": {
+      "time_limit": "9",
+      "memory_limit": "1024",
+      "difficulty": "6.3"
+    },
+    "stats": {
+      "submissions": "568",
+      "accepted_submissions": "168",
+      "submission_ratio": "30",
+      "authors": "155",
+      "accepted_authors": "111",
+      "author_ratio": "72"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/airrally",
+    "stats_url": "https://open.kattis.com/problems/airrally/statistics",
+    "info": {
+      "time_limit": "8",
+      "memory_limit": "1024"
+    },
+    "stats": {
+      "submissions": "34",
+      "accepted_submissions": "0",
+      "submission_ratio": "0",
+      "authors": "3",
+      "accepted_authors": "0",
+      "author_ratio": "0"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/akcija",
+    "stats_url": "https://open.kattis.com/problems/akcija/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.9"
+    },
+    "stats": {
+      "submissions": "9724",
+      "accepted_submissions": "4501",
+      "submission_ratio": "46",
+      "authors": "4034",
+      "accepted_authors": "3614",
+      "author_ratio": "90"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aladin",
+    "stats_url": "https://open.kattis.com/problems/aladin/statistics",
+    "info": {
+      "time_limit": "6",
+      "memory_limit": "1024",
+      "difficulty": "8.7"
+    },
+    "stats": {
+      "submissions": "865",
+      "accepted_submissions": "100",
+      "submission_ratio": "12",
+      "authors": "141",
+      "accepted_authors": "32",
+      "author_ratio": "23"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alchemy",
+    "stats_url": "https://open.kattis.com/problems/alchemy/statistics",
+    "info": {
+      "time_limit": "3",
+      "memory_limit": "1024",
+      "difficulty": "8.9"
+    },
+    "stats": {
+      "submissions": "175",
+      "accepted_submissions": "34",
+      "submission_ratio": "19",
+      "authors": "45",
+      "accepted_authors": "24",
+      "author_ratio": "53"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alchemy101",
+    "stats_url": "https://open.kattis.com/problems/alchemy101/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.8"
+    },
+    "stats": {
+      "submissions": "545",
+      "accepted_submissions": "179",
+      "submission_ratio": "33",
+      "authors": "159",
+      "accepted_authors": "128",
+      "author_ratio": "81"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alea",
+    "stats_url": "https://open.kattis.com/problems/alea/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "6.6"
+    },
+    "stats": {
+      "submissions": "45",
+      "accepted_submissions": "16",
+      "submission_ratio": "36",
+      "authors": "20",
+      "accepted_authors": "15",
+      "author_ratio": "75"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alehouse",
+    "stats_url": "https://open.kattis.com/problems/alehouse/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "4.6"
+    },
+    "stats": {
+      "submissions": "809",
+      "accepted_submissions": "346",
+      "submission_ratio": "43",
+      "authors": "303",
+      "accepted_authors": "242",
+      "author_ratio": "80"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alexandbarb",
+    "stats_url": "https://open.kattis.com/problems/alexandbarb/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.5"
+    },
+    "stats": {
+      "submissions": "1158",
+      "accepted_submissions": "403",
+      "submission_ratio": "35",
+      "authors": "466",
+      "accepted_authors": "364",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alicedigital",
+    "stats_url": "https://open.kattis.com/problems/alicedigital/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.0"
+    },
+    "stats": {
+      "submissions": "6041",
+      "accepted_submissions": "1526",
+      "submission_ratio": "25",
+      "authors": "1374",
+      "accepted_authors": "1086",
+      "author_ratio": "79"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aliencodebreaking",
+    "stats_url": "https://open.kattis.com/problems/aliencodebreaking/statistics",
+    "info": {
+      "time_limit": "13",
+      "memory_limit": "1024",
+      "difficulty": "8.1"
+    },
+    "stats": {
+      "submissions": "315",
+      "accepted_submissions": "31",
+      "submission_ratio": "10",
+      "authors": "57",
+      "accepted_authors": "16",
+      "author_ratio": "28"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alienmicrowave",
+    "stats_url": "https://open.kattis.com/problems/alienmicrowave/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "2048",
+      "difficulty": "6.5"
+    },
+    "stats": {
+      "submissions": "241",
+      "accepted_submissions": "97",
+      "submission_ratio": "40",
+      "authors": "126",
+      "accepted_authors": "93",
+      "author_ratio": "74"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/aliennumbers",
+    "stats_url": "https://open.kattis.com/problems/aliennumbers/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.9"
+    },
+    "stats": {
+      "submissions": "2952",
+      "accepted_submissions": "1555",
+      "submission_ratio": "53",
+      "authors": "1523",
+      "accepted_authors": "1394",
+      "author_ratio": "92"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/listgame",
+    "stats_url": "https://open.kattis.com/problems/listgame/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.9"
+    },
+    "stats": {
+      "submissions": "10885",
+      "accepted_submissions": "3314",
+      "submission_ratio": "30",
+      "authors": "3182",
+      "accepted_authors": "2694",
+      "author_ratio": "85"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/allaboutthatbase",
+    "stats_url": "https://open.kattis.com/problems/allaboutthatbase/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.9"
+    },
+    "stats": {
+      "submissions": "3317",
+      "accepted_submissions": "1324",
+      "submission_ratio": "40",
+      "authors": "1275",
+      "accepted_authors": "1081",
+      "author_ratio": "85"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alldifferentdirections",
+    "stats_url": "https://open.kattis.com/problems/alldifferentdirections/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.5"
+    },
+    "stats": {
+      "submissions": "1691",
+      "accepted_submissions": "787",
+      "submission_ratio": "47",
+      "authors": "747",
+      "accepted_authors": "668",
+      "author_ratio": "89"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/allergy",
+    "stats_url": "https://open.kattis.com/problems/allergy/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "8.0"
+    },
+    "stats": {
+      "submissions": "641",
+      "accepted_submissions": "162",
+      "submission_ratio": "25",
+      "authors": "208",
+      "accepted_authors": "102",
+      "author_ratio": "49"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/friends",
+    "stats_url": "https://open.kattis.com/problems/friends/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "8.9"
+    },
+    "stats": {
+      "submissions": "1154",
+      "accepted_submissions": "218",
+      "submission_ratio": "19",
+      "authors": "207",
+      "accepted_authors": "108",
+      "author_ratio": "52"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alliswell",
+    "stats_url": "https://open.kattis.com/problems/alliswell/statistics",
+    "info": {
+      "time_limit": "3",
+      "memory_limit": "1024",
+      "difficulty": "5.6"
+    },
+    "stats": {
+      "submissions": "128",
+      "accepted_submissions": "37",
+      "submission_ratio": "29",
+      "authors": "35",
+      "accepted_authors": "30",
+      "author_ratio": "86"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/dream",
+    "stats_url": "https://open.kattis.com/problems/dream/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.4"
+    },
+    "stats": {
+      "submissions": "2711",
+      "accepted_submissions": "709",
+      "submission_ratio": "26",
+      "authors": "537",
+      "accepted_authors": "412",
+      "author_ratio": "77"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/allkill",
+    "stats_url": "https://open.kattis.com/problems/allkill/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.9"
+    },
+    "stats": {
+      "submissions": "121",
+      "accepted_submissions": "99",
+      "submission_ratio": "82",
+      "authors": "56",
+      "accepted_authors": "49",
+      "author_ratio": "88"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alloys",
+    "stats_url": "https://open.kattis.com/problems/alloys/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "3.7"
+    },
+    "stats": {
+      "submissions": "836",
+      "accepted_submissions": "306",
+      "submission_ratio": "37",
+      "authors": "315",
+      "accepted_authors": "265",
+      "author_ratio": "84"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/allpairspath",
+    "stats_url": "https://open.kattis.com/problems/allpairspath/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.5"
+    },
+    "stats": {
+      "submissions": "13800",
+      "accepted_submissions": "2663",
+      "submission_ratio": "19",
+      "authors": "1675",
+      "accepted_authors": "1206",
+      "author_ratio": "72"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/almostperfect",
+    "stats_url": "https://open.kattis.com/problems/almostperfect/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.9"
+    },
+    "stats": {
+      "submissions": "13496",
+      "accepted_submissions": "3033",
+      "submission_ratio": "22",
+      "authors": "3088",
+      "accepted_authors": "2460",
+      "author_ratio": "80"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/almostunionfind",
+    "stats_url": "https://open.kattis.com/problems/almostunionfind/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "6.3"
+    },
+    "stats": {
+      "submissions": "10129",
+      "accepted_submissions": "1752",
+      "submission_ratio": "17",
+      "authors": "1588",
+      "accepted_authors": "955",
+      "author_ratio": "60"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alphabet",
+    "stats_url": "https://open.kattis.com/problems/alphabet/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.9"
+    },
+    "stats": {
+      "submissions": "2618",
+      "accepted_submissions": "1350",
+      "submission_ratio": "52",
+      "authors": "1281",
+      "accepted_authors": "1092",
+      "author_ratio": "85"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alphabetanimals",
+    "stats_url": "https://open.kattis.com/problems/alphabetanimals/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "3.5"
+    },
+    "stats": {
+      "submissions": "3734",
+      "accepted_submissions": "1101",
+      "submission_ratio": "29",
+      "authors": "987",
+      "accepted_authors": "805",
+      "author_ratio": "82"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alphabetspam",
+    "stats_url": "https://open.kattis.com/problems/alphabetspam/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "1.3"
+    },
+    "stats": {
+      "submissions": "10748",
+      "accepted_submissions": "6725",
+      "submission_ratio": "63",
+      "authors": "5699",
+      "accepted_authors": "5483",
+      "author_ratio": "96"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/alternating",
+    "stats_url": "https://open.kattis.com/problems/alternating/statistics",
+    "info": {
+      "time_limit": "3",
+      "memory_limit": "1024",
+      "difficulty": "1.38.1"
+    },
+    "stats": {
+      "submissions": "694",
+      "accepted_submissions": "676",
+      "submission_ratio": "97",
+      "authors": "118",
+      "accepted_authors": "115",
+      "author_ratio": "97"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/annorlundaanagram",
+    "stats_url": "https://open.kattis.com/problems/annorlundaanagram/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "7.3"
+    },
+    "stats": {
+      "submissions": "258",
+      "accepted_submissions": "83",
+      "submission_ratio": "32",
+      "authors": "74",
+      "accepted_authors": "55",
+      "author_ratio": "74"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/bracketnotation",
+    "stats_url": "https://open.kattis.com/problems/bracketnotation/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.4"
+    },
+    "stats": {
+      "submissions": "235",
+      "accepted_submissions": "101",
+      "submission_ratio": "43",
+      "authors": "110",
+      "accepted_authors": "90",
+      "author_ratio": "82"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/altosinging",
+    "stats_url": "https://open.kattis.com/problems/altosinging/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.7"
+    },
+    "stats": {
+      "submissions": "84",
+      "accepted_submissions": "35",
+      "submission_ratio": "42",
+      "authors": "36",
+      "accepted_authors": "33",
+      "author_ratio": "92"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/altruisticamphibians",
+    "stats_url": "https://open.kattis.com/problems/altruisticamphibians/statistics",
+    "info": {
+      "time_limit": "3",
+      "memory_limit": "1024",
+      "difficulty": "5.3"
+    },
+    "stats": {
+      "submissions": "544",
+      "accepted_submissions": "150",
+      "submission_ratio": "28",
+      "authors": "124",
+      "accepted_authors": "92",
+      "author_ratio": "74"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/artichoke",
+    "stats_url": "https://open.kattis.com/problems/artichoke/statistics",
+    "info": {
+      "time_limit": "5",
+      "memory_limit": "1024",
+      "difficulty": "2.5"
+    },
+    "stats": {
+      "submissions": "5102",
+      "accepted_submissions": "2297",
+      "submission_ratio": "45",
+      "authors": "2026",
+      "accepted_authors": "1789",
+      "author_ratio": "88"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/amanda",
+    "stats_url": "https://open.kattis.com/problems/amanda/statistics",
+    "info": {
+      "time_limit": "4",
+      "memory_limit": "1024",
+      "difficulty": "5.2"
+    },
+    "stats": {
+      "submissions": "1922",
+      "accepted_submissions": "577",
+      "submission_ratio": "30",
+      "authors": "487",
+      "accepted_authors": "397",
+      "author_ratio": "82"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/amazing",
+    "stats_url": "https://open.kattis.com/problems/amazing/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024"
+    },
+    "stats": {
+      "submissions": "3979",
+      "accepted_submissions": "1032",
+      "submission_ratio": "26",
+      "authors": "396",
+      "accepted_authors": "299",
+      "author_ratio": "76"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/amazingadventures",
+    "stats_url": "https://open.kattis.com/problems/amazingadventures/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "5.9"
+    },
+    "stats": {
+      "submissions": "448",
+      "accepted_submissions": "136",
+      "submission_ratio": "30",
+      "authors": "154",
+      "accepted_authors": "111",
+      "author_ratio": "72"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/race",
+    "stats_url": "https://open.kattis.com/problems/race/statistics",
+    "info": {
+      "time_limit": "6",
+      "memory_limit": "1024",
+      "difficulty": "6.3"
+    },
+    "stats": {
+      "submissions": "441",
+      "accepted_submissions": "114",
+      "submission_ratio": "26",
+      "authors": "116",
+      "accepted_authors": "84",
+      "author_ratio": "72"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/result",
+    "stats_url": "https://open.kattis.com/problems/result/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "7.2"
+    },
+    "stats": {
+      "submissions": "297",
+      "accepted_submissions": "66",
+      "submission_ratio": "22",
+      "authors": "98",
+      "accepted_authors": "61",
+      "author_ratio": "62"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/amsterdamdistance",
+    "stats_url": "https://open.kattis.com/problems/amsterdamdistance/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.6"
+    },
+    "stats": {
+      "submissions": "2238",
+      "accepted_submissions": "1121",
+      "submission_ratio": "50",
+      "authors": "1134",
+      "accepted_authors": "972",
+      "author_ratio": "86"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/amultiplicationgame",
+    "stats_url": "https://open.kattis.com/problems/amultiplicationgame/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.1"
+    },
+    "stats": {
+      "submissions": "1274",
+      "accepted_submissions": "525",
+      "submission_ratio": "41",
+      "authors": "561",
+      "accepted_authors": "438",
+      "author_ratio": "78"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anagramcounting",
+    "stats_url": "https://open.kattis.com/problems/anagramcounting/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.7"
+    },
+    "stats": {
+      "submissions": "4703",
+      "accepted_submissions": "1887",
+      "submission_ratio": "40",
+      "authors": "1815",
+      "accepted_authors": "1533",
+      "author_ratio": "84"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/andrewant",
+    "stats_url": "https://open.kattis.com/problems/andrewant/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "4.8"
+    },
+    "stats": {
+      "submissions": "507",
+      "accepted_submissions": "152",
+      "submission_ratio": "30",
+      "authors": "161",
+      "accepted_authors": "124",
+      "author_ratio": "77"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anewadventure",
+    "stats_url": "https://open.kattis.com/problems/anewadventure/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.8"
+    },
+    "stats": {
+      "submissions": "1485",
+      "accepted_submissions": "227",
+      "submission_ratio": "15",
+      "authors": "221",
+      "accepted_authors": "157",
+      "author_ratio": "71"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anewalphabet",
+    "stats_url": "https://open.kattis.com/problems/anewalphabet/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.2"
+    },
+    "stats": {
+      "submissions": "13839",
+      "accepted_submissions": "6226",
+      "submission_ratio": "45",
+      "authors": "5834",
+      "accepted_authors": "5359",
+      "author_ratio": "92"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/iforaneye",
+    "stats_url": "https://open.kattis.com/problems/iforaneye/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.8"
+    },
+    "stats": {
+      "submissions": "1280",
+      "accepted_submissions": "369",
+      "submission_ratio": "29",
+      "authors": "423",
+      "accepted_authors": "316",
+      "author_ratio": "75"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/animal",
+    "stats_url": "https://open.kattis.com/problems/animal/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "6.8"
+    },
+    "stats": {
+      "submissions": "1670",
+      "accepted_submissions": "395",
+      "submission_ratio": "24",
+      "authors": "331",
+      "accepted_authors": "224",
+      "author_ratio": "68"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/industrialspy",
+    "stats_url": "https://open.kattis.com/problems/industrialspy/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "2.8"
+    },
+    "stats": {
+      "submissions": "2263",
+      "accepted_submissions": "1238",
+      "submission_ratio": "55",
+      "authors": "980",
+      "accepted_authors": "864",
+      "author_ratio": "88"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/annoyedcoworkers",
+    "stats_url": "https://open.kattis.com/problems/annoyedcoworkers/statistics",
+    "info": {
+      "time_limit": "2",
+      "memory_limit": "1024",
+      "difficulty": "2.9"
+    },
+    "stats": {
+      "submissions": "436",
+      "accepted_submissions": "120",
+      "submission_ratio": "28",
+      "authors": "95",
+      "accepted_authors": "82",
+      "author_ratio": "86"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anotherbrick",
+    "stats_url": "https://open.kattis.com/problems/anotherbrick/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.0"
+    },
+    "stats": {
+      "submissions": "4234",
+      "accepted_submissions": "2187",
+      "submission_ratio": "52",
+      "authors": "2120",
+      "accepted_authors": "1939",
+      "author_ratio": "91"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anothercandies",
+    "stats_url": "https://open.kattis.com/problems/anothercandies/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "2.5"
+    },
+    "stats": {
+      "submissions": "10241",
+      "accepted_submissions": "2878",
+      "submission_ratio": "28",
+      "authors": "2898",
+      "accepted_authors": "2434",
+      "author_ratio": "84"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anothercoinweighingpuzzle",
+    "stats_url": "https://open.kattis.com/problems/anothercoinweighingpuzzle/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "5.5"
+    },
+    "stats": {
+      "submissions": "744",
+      "accepted_submissions": "202",
+      "submission_ratio": "27",
+      "authors": "143",
+      "accepted_authors": "116",
+      "author_ratio": "81"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/anotherdice",
+    "stats_url": "https://open.kattis.com/problems/anotherdice/statistics",
+    "info": {
+      "time_limit": "1",
+      "memory_limit": "1024",
+      "difficulty": "4.4"
+    },
+    "stats": {
+      "submissions": "133",
+      "accepted_submissions": "81",
+      "submission_ratio": "61",
+      "authors": "81",
+      "accepted_authors": "68",
+      "author_ratio": "84"
+    }
+  },
+  {
+    "url": "https://open.kattis.com/problems/queryonarray",
+    "stats_url": "https://open.kattis.com/problems/queryonarray/statistics",
+    "info": {
+      "time_limit": "3",
+      "memory_limit": "256",
+      "difficulty": "7.8"
+    },
+    "stats": {
+      "submissions": "1969",
+      "accepted_submissions": "245",
+      "submission_ratio": "12",
+      "authors": "387",
+      "accepted_authors": "173",
+      "author_ratio": "45"
+    }
+  }
+]
