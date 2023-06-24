@@ -49,13 +49,10 @@ def add_problem_information(problem_page, problem: dict) -> None:
 
     """
     fields = ["time_limit", "memory_limit", "difficulty"]
-
-    info = problem_page.findAll("div", "metadata_list-item")
-
+    info = problem_page.findAll("div", "metadata_list-item")[:3]
     for i in range(len(info)):
-        s = re.compile(r"[^\d.]+")
-        info[i] = s.sub("", str(info[i]))
-
+        s = info[i].find('span').find_next_sibling().text.strip()
+        info[i] = re.sub(r'[a-zA-Z]', '', s).strip()
     problem["info"] = {fields[i]: info[i] for i in range(min(len(info), len(fields)))}
 
 def add_problem_statistics(stats_page, problem: dict) -> None:
