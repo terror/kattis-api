@@ -1,10 +1,10 @@
 import requests
 import re
-import json
 from .utils import Utils
+from kattis.database import Database
 
+database = Database()
 URL = "https://open.kattis.com/problems/"
-
 
 def problems(pages=1) -> dict:
     """
@@ -33,8 +33,8 @@ def problem(problem_id: str) -> dict:
         "stats_url": URL + problem_id + "/statistics",
     }
 
-    problem_page = Utils.html_page(requests.get(obj["url"]))
-    stats_page = Utils.html_page(requests.get(obj["stats_url"]))
+    problem_page = database.get(problem_id, obj["url"])
+    stats_page = database.get(problem_id + "_statistics", obj["stats_url"])
 
     add_problem_information(problem_page, obj)
     add_problem_statistics(stats_page, obj)
