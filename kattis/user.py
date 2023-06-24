@@ -18,7 +18,7 @@ class KattisUser:
         self.__password = password
         self.__cookies = cookies
         self.__submission_url = "https://open.kattis.com/users/"
-        self.__problem_url = "https://open.kattis.com/problems?show_solved=on&show_tried=off&show_untried=off"
+        self.__problem_url = "https://open.kattis.com/problems?show_solved=on&show_partial=off&show_tried=off&show_untried=off"
 
     def problems(self, pages=1) -> dict:
         """
@@ -36,13 +36,11 @@ class KattisUser:
                 )
             )
 
-            problem_list = problem_page.find_all(
-                "td", {"class", "name_column"})
-
-            for prob in problem_list:
-                children = prob.findChildren("a", recursive=False, href=True)
+            problem_list = problem_page.find("table", "table2").find_all("tr")
+            for prob in problem_list[1:]: # skip table header
+                children = prob.findChildren("a")
                 problem_id = children[0]["href"].split("/")[2]
-                obj[problem_id] = problem(problem_id)
+                obj[problem_id] = problem(problem_id) # can take very long if there are many solved problems
                 count += 1
 
         obj["count"] = count
@@ -64,10 +62,7 @@ class KattisUser:
         )
 
         # Parse score and rank
-        user_stats = stats_page.find("ul", {"class": "profile-header-list"}).findAll(
-            "li"
-        )
-
+        user_stats = stats_page.findAll("div", "divider_list-item")
         for i in range(len(user_stats)):
             s = re.compile(r"[^\d.]+")
             user_stats[i] = s.sub("", str(user_stats[i]))
